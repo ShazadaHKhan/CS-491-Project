@@ -1,57 +1,14 @@
-# Talk About It
+# Class-ist Forum App
 
-##### Discussion Forum App, 5/2/2016
+![Alt text](https://github.com/ShazadaHKhan/CS-491-Project/blob/master/Icon.png)
 
-#### By Anna Becker and Michelle Brecunier
+**Hello this is my CS 491 Project where I attempt to create an app that allows users to creater an account as a student or teacher and actually message one another in order make it easier for them to communicate and develope learning plans together.**
 
-## Description
+Here is a screenshot of the login page that includes the option to either login as a student or a teacher.
 
-This is a discussion forum app for Android where users can eventually browse and add categories, posts, and comments.
+![Alt text](https://i.imgur.com/mqcQ7SN.png)
 
-## Setup/Installation Requirements
-You will need the following programs installed on your computer.
-* Android Studio
-* Java JDK 8+
-* Android SDK
+The design was meant to be very simplistic and have the ability to look pleasing as well as easy on the eyes. I really liked the original logo so I kept it but I will attempt to change it in the future for something that matches better. 
 
-### To Run
-* In a terminal window, navigate to ~/AndroidStudioProjects
-* Run `git clone https://github.com/mbrecunier/TalkAboutIt.git`
-* Navigate to ~/AndroidStudioProjects/TalkAboutIt
-* Run on either an emulator or an Android OS Device connected to a computer
 
-##### To set up an emulator
-* Select Run > Run 'app'
-* Click 'Create New Emulator'
-* Select the device you would like to emulate (Recommended: Nexus 6)
-* Select the API level you would like to run - click 'Download' if not available (Recommended: Marshmallow - ABI: x86)
-* Select configuration settings for emulator
-* Click 'Finish' and allow Emulator to run
 
-## Technologies Used
-
-Java, Android Studio, Firebase
-
-### Legal
-
-Copyright (c) 2016 Anna Becker and Michelle Brecunier
-
-This software is licensed under the MIT license.
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
