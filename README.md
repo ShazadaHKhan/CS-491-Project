@@ -28,7 +28,7 @@
 **This is an example of what it looks like when you're posting the a discussion topic to the forum. Currently the tags have no purpose because I have not implemented a search feature yet and the loading buffer keeps displaying itself in a constant loop for some reason. Overall, the layout box for the posting is very basic and functions as it is supposed to.**
 
 ## Looking at messages:
-![Alt text](https://i.imgur.com/AfD7fUx.png)
+![Alt text](https://i.imgur.com/S1MVGyv.png)
 
 **This is the way the messages inbox currently looks. The font needs much work and so does the wallpaper I chose to use for it (looks quite depressing).But on the basis of having no messages being recieved, Im guessing it A-OK to describe that feeling with such a sad backdrop. Only problem is that the background remains even after you recieve a message which definitley is not supposed to happen.**
 
