@@ -1,30 +1,40 @@
 # Class-ist Forum App
 
+## ALPHA/BETA/RELEASE VERSIONS PROGRESS REPORTS:
+
 ![Alt text](https://github.com/ShazadaHKhan/CS-491-Project/blob/master/Icon.png)
 
-**Hello this is my CS 491 Project where I attempt to create an app that allows users to creater an account as a student or teacher and actually message one another in order make it easier for them to communicate and develope learning plans together.**
+**Hello this is my CS 491 Project where I attempt to create an app that allows users to create an account as a student or teacher and actually message one another in order make it easier for them to communicate and develope learning plans together.**
 
-## Here is a screenshot of the login page that includes the option to either login as a student or a teacher.
-
+## Here is a screenshot of the login page that includes the option to either login as a student or a teacher:
 ![Alt text](https://i.imgur.com/mqcQ7SN.png)
 
 **The design was meant to be very simplistic and have the ability to look pleasing as well as easy on the eyes. I really liked the original logo so I kept it but I will attempt to change it in the future for something that matches better.**
 
 
-## Here is a screenshot of the registration page.
-
+## Here is a screenshot of the registration page:
 ![Alt text](https://i.imgur.com/pw29ylZ.png)
 
 **Very similar comments. The page is very simple and straightforward and should not take too much time to complete.**
 
+# When you log-in:
 ![Alt text](https://i.imgur.com/OFrIKmV.png)
 
 **In this page you can see the page that pops up once you enter the correct required credentials. You can check your messages that were sent to you by either teachers or other students. You can change info you put in for yourself such as age, school info, or major. You can Sign out if you are done browsing or you can check the forums that people post. If you scroll alittle further down you can see a button that allows you to post but due to limited screen size, you are unable to see it. The design was not what I intended it to be but with the lack of any good free materials for the icon and the banner, I was unable to design it to my likeing.**
 
-## When posting a topic
+## When posting a topic:
 ![Alt text](https://i.imgur.com/MtuwBU0.png)
 
-**This is an example of what it looks like when you're posting the a discussion topic to the forum. Currently the tags have no purpose because I have not implemented a search feature yet and the loaqding buffer keeps displaying itself in a constant loop for some reason. Overall, the layout box for the posting is very basic and functions as it is supposed to.**
+**This is an example of what it looks like when you're posting the a discussion topic to the forum. Currently the tags have no purpose because I have not implemented a search feature yet and the loading buffer keeps displaying itself in a constant loop for some reason. Overall, the layout box for the posting is very basic and functions as it is supposed to.**
+
+## Looking at messages:
+![Alt text](https://i.imgur.com/AfD7fUx.png)
+
+**This is the way the messages inbox currently looks. The font needs much work and so does the wallpaper I chose to use for it (looks quite depressing).But on the basis of having no messages being recieved, Im guessing it A-OK to describe that feeling with such a sad backdrop. Only problem is that the background remains even after you recieve a message which definitley is not supposed to happen.**
+
+## 
+
+
 
 
 
